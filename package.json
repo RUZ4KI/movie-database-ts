@@ -1,7 +1,7 @@
 {
   "name": "movie-database-ts",
   "version": "0.1.0",
-  "homepage": "https://RUZ4KI.github.io/react-gh-pages",
+  "homepage": "https://RUZ4KI.github.io/movie-database-ts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
